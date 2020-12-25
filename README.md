@@ -1,4 +1,4 @@
-### Hi there, I'm [Cole!]👋
+### Hi there, I'm [Cole!](https://www.youtube.com/channel/UC5dcb9kg-ZgS4Iu9K8Z7kgw)👋
 <a href="https://discord.gg/24a4NMw">
   <img align="left" alt="Sinlyxe.cc Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
